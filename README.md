@@ -1,6 +1,8 @@
 # Inheritance-in-JavaScript
 Lets discuss abit about inheritance in ES6,what it entails and its importance
 
+Inheritance is when one class acquires the properties of another class.A child aquires the traits of its parent.
+
 Inheritance refers to an object's ability to access methods and other properties from another object.
 
 Objects can inherit from other objects and it works through prototypes.
