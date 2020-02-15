@@ -9,3 +9,7 @@ In ES6 inheritance is allowed from one class to another,and that class can add m
 one class can be like a parent class while the other becomes the child class.
 
 We will be discussing more about 'super' and 'extends'
+
+The 'extends' is used to inherit from another class and the 'super' keyword is used to call the parent class which has the features.
+
+
