@@ -15,3 +15,6 @@ The 'extends' is used to inherit from another class and the 'super' keyword is u
 The 'extends' keyword is used to create a child class of another class ie the parent.The child will inherit/get all the methods fro the parent class.
 
 This help in code reusability and avoids duplication
+
+
+The 'super' keyword is used to call methods of the parent class It is used within a cinstructor function to call the parent constructor function
