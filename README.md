@@ -6,5 +6,6 @@ Inheritance refers to an object's ability to access methods and other properties
 Objects can inherit from other objects and it works through prototypes.
 
 In ES6 inheritance is allowed from one class to another,and that class can add more features of its own.
+one class can be like a parent class while the other becomes the child class.
 
 We will be discussing more about 'super' and 'extends'
