@@ -20,3 +20,5 @@ This help in code reusability and avoids duplication
 
 
 The 'super' keyword is used to call methods of the parent class It is used within a cinstructor function to call the parent constructor function
+
+Under the hood, your classes are being converted into Prototypal Inheritance models
