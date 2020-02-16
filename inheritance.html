@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>inheritance</title>
+</head>
+<body>
+
+</body>
+
+<script type="text/javascript">
+
+class Person {
+  constructor(first, last) {
+    this.name = {
+      first,
+      last
+    };
+    
+  }
+
+  greeting() {
+    console.log(`Hi! I am ${this.name.last}`);
+  };
+
+
+}
+let dan = new Person('dan', 'maritim');
+dan.greeting();
+
+</script>
+
+</html>
